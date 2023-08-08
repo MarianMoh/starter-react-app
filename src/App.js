@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I made my first project with Cyclic <br><i>by Marian Moh</i>
+          I made my first project with Cyclic <i>by Marian Moh</i>
         </p>
         <a
           className="App-link"
